@@ -1,0 +1,46 @@
+#title{
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 25px;
+}
+#btn {
+    width: 200px;
+    margin: 10px                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center ;
+    margin-top: 50px;
+}
+.block {
+    background-color: rgb(122, 122, 122);
+    margin: 1px;
+    height: 15px;
+    width: 15px;
+}
+.block:hover {
+background-color: black;
+}
+.block-toggled {
+    margin: 1px;
+    height: 15px;
+    width: 15px;
+    background: red;
+}
+
+.grid-row {
+    margin: 1px;
+    display: flex;
+
+}
+
+#btns {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 25px;
+    align-items:center ;
+}
+
